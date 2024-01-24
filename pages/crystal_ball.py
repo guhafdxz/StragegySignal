@@ -71,7 +71,7 @@ with col13:
     st.image("https://static.streamlit.io/examples/cat.jpg")
 
 with col14:
-    st.header("期货多空比")
+    st.caption("期货多空比")
     st.image("https://static.streamlit.io/examples/cat.jpg")
 
 with col15:

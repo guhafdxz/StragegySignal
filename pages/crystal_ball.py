@@ -4,10 +4,7 @@ import numpy as np
 
 
 
-st.markdown("水晶球🔮")
-st.sidebar.markdown("水晶球🔮")
-
-st.header('加密市场看板')
+st.header('加密市场水晶球')
 
 col1, col2, col3,col4 = st.columns(4)
 

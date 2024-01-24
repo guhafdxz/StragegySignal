@@ -66,7 +66,7 @@ with col12:
 
 col13, col14, col15,col16 =  st.columns(4)
 
-with col3:
+with col13:
     st.caption("期货未平仓")
     st.image("https://static.streamlit.io/examples/cat.jpg")
 
